@@ -1,0 +1,6 @@
+names:
+- rice
+nc: 1
+path: D:/projects/Rice Grain/
+train: D:/projects/Rice Grain/train
+val: D:/projects/Rice Grain/test
